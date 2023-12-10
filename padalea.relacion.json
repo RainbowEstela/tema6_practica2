@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6575c3fe61fcfd4b5b0cc49d"
+  },
+  "idPartida": 1,
+  "idJugador": 2
+},
+{
+  "_id": {
+    "$oid": "6575c7076fb02801150b831a"
+  },
+  "idPartida": 1,
+  "idJugador": 6
+},
+{
+  "_id": {
+    "$oid": "6575c71c61fcfd4b5b0cc49f"
+  },
+  "idPartida": 1,
+  "idJugador": 1
+},
+{
+  "_id": {
+    "$oid": "6575c7306fb02801150b831b"
+  },
+  "idPartida": 1,
+  "idJugador": 5
+},
+{
+  "_id": {
+    "$oid": "6575c8cd6fb02801150b831c"
+  },
+  "idPartida": 0,
+  "idJugador": 5
+},
+{
+  "_id": {
+    "$oid": "6575c8eb6fb02801150b831d"
+  },
+  "idPartida": 0,
+  "idJugador": 1
+},
+{
+  "_id": {
+    "$oid": "6575c8f76fb02801150b831e"
+  },
+  "idPartida": 0,
+  "idJugador": 2
+},
+{
+  "_id": {
+    "$oid": "6575c90761fcfd4b5b0cc4a0"
+  },
+  "idPartida": 0,
+  "idJugador": 3
+},
+{
+  "_id": {
+    "$oid": "6575c9606fb02801150b8320"
+  },
+  "idPartida": 2,
+  "idJugador": 3
+},
+{
+  "_id": {
+    "$oid": "6575c96f61fcfd4b5b0cc4a1"
+  },
+  "idPartida": 2,
+  "idJugador": 2
+},
+{
+  "_id": {
+    "$oid": "6575c97e61fcfd4b5b0cc4a2"
+  },
+  "idPartida": 2,
+  "idJugador": 6
+},
+{
+  "_id": {
+    "$oid": "6575c98c61fcfd4b5b0cc4a3"
+  },
+  "idPartida": 2,
+  "idJugador": 5
+}]

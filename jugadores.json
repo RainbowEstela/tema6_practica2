@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "email": "uno@gmail.com",
+        "password": "1234",
+        "nombre": "fulanito",
+        "apodo": "3lfular",
+        "nivel": 1,
+        "edad": 54
+    },
+    {
+        "id": 2,
+        "email": "dos@gmail.com",
+        "password": "1234",
+        "nombre": "menganito",
+        "apodo": "menganor",
+        "nivel": 2,
+        "edad": 40
+    },
+    {
+        "id": 3,
+        "email": "tres@gmail.com",
+        "password": "1234",
+        "nombre": "minganito",
+        "apodo": "miguel",
+        "nivel": 1,
+        "edad": 30
+    },
+    {
+        "id": 4,
+        "email": "cuatro@gmail.com",
+        "password": "1234",
+        "nombre": "angela",
+        "apodo": "miAngel",
+        "nivel": 1,
+        "edad": 70
+    },
+    {
+        "id": 5,
+        "email": "cinco@gmail.com",
+        "password": "1234",
+        "nombre": "martina",
+        "apodo": "merquetengue",
+        "nivel": 1,
+        "edad": 87
+    },
+    {
+        "id": 6,
+        "email": "seis@gmail.com",
+        "password": "1234",
+        "nombre": "bartolo",
+        "apodo": "elcrak",
+        "nivel": 1,
+        "edad": 38
+    }
+]

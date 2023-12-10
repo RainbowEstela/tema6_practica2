@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6575c20d61fcfd4b5b0cc49a"
+  },
+  "id": 0,
+  "fecha": "2023-12-06",
+  "hora": 9,
+  "ciudad": "wefweg",
+  "lugar": "wewgerwgw",
+  "cubierto": false,
+  "estado": "cerrada"
+},
+{
+  "_id": {
+    "$oid": "6575c3fe61fcfd4b5b0cc49c"
+  },
+  "id": 1,
+  "fecha": "2023-12-21",
+  "hora": 5,
+  "ciudad": "fwfw",
+  "lugar": "wefew",
+  "cubierto": true,
+  "estado": "cerrada"
+},
+{
+  "_id": {
+    "$oid": "6575c9606fb02801150b831f"
+  },
+  "id": 2,
+  "fecha": "2023-12-31",
+  "hora": 9,
+  "ciudad": "rge",
+  "lugar": "egeh",
+  "cubierto": false,
+  "estado": "cerrada"
+}]
