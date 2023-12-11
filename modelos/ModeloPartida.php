@@ -46,8 +46,10 @@ class ModeloPartida
         $conexionObjet = new ConexionBaseDeDatos();
         $conexion = $conexionObjet->getConexion();
 
+
+
         $valores = $conexion->partidas->find(
-            [],
+            ['fecha' => ['$gte' => date("Y-m-d")]],
             [
                 'sort' => ['fecha' => -1]
             ]
